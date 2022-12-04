@@ -170,7 +170,7 @@ article:
     # show split line or not
     line_style: solid # hidden, solid, dashed, dotted
     # show author
-    author: false # true, false
+    author: true # true, false
     # show readmore button
     readmore: auto # auto, always
   # 文章详情页面的文章卡片本体布局方案
@@ -258,9 +258,9 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 请设置文章作者
-        url: /
+        avatar: /logo.png #volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png
+        name: JERRY-SYSTEM
+        url: https://space.bilibili.com/702028797
       # 文章创建日期
       date:
         icon: fa-solid fa-calendar-alt
