@@ -93,6 +93,9 @@ navbar:
     - name: 文章归档
       icon: fa-solid fa-archive
       url: archives/
+    - name: 资源汇总
+      icon: fa-solid fa-file-contract
+      url: general/
     - name: 网盘
       icon: fa-solid fa-folder-open
       url: https://drive.jerry-system.ml/
@@ -130,6 +133,10 @@ cover:
       icon: #
       img: /svg/post.svg
       url: archives/
+    - name: 资源汇总
+      icon: #
+      img: /svg/sources.svg
+      url: general/
     - name: 网盘
       icon: fa-solid fa-folder-open
       img: /svg/onedrive.svg
