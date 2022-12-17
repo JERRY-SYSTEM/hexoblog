@@ -45,9 +45,21 @@
     <script src="/js/mouse/mouseslide.js"></script>
     <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></canvas> 
     <script src="/js/mouse/eplanime.js"></script> 
-    <script src="/js/mouse/explosion.js"></script>
-    <script>localStorage.setItem('modelId', '1');localStorage.setItem('modelTexturesId', '1');</script>
+    <script src="/js/mouse/explosion.js"></script> 
+     <script>localStorage.setItem('modelId', '1');localStorage.setItem('modelTexturesId', '1');</script>
     <script src="/js/waifu.js"></script>
+    <script src="/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">$(document).ready(function(){var OriginTitile = document.title; var titleTime;document.addEventListener('visibilitychange', function(){
+                if (document.hidden){
+                    document.title = '歪，你去哪里了？';
+                    clearTimeout(titleTime);
+                }else{
+                    document.title = '(つェ⊂)咦，又回来了!';
+                    titleTime = setTimeout(function() {
+                        document.title = OriginTitile;
+                    }, 3000); // 3秒后恢复原标题  
+                }
+            });});</script><script>$(document).on('pjax:complete',function(){if(!$('.post-content').length){ $('.qrcode').css('display', 'none')}else{ $('.qrcode').css('display', 'block')};Hitokoto();});</script>
 
   </body>
 </html>
