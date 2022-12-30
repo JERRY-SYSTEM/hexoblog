@@ -1,6 +1,7 @@
 ---
 layout: general
 title: 资源汇总
+author: JERRY
 ---
 
 # 所有系统资源汇总(一)
@@ -64,9 +65,7 @@ title: 资源汇总
     </iframe>
 </div>
 
-| 下载     | 链接                | 提取码 |
-| -------- | ------------------- | ------ |
-| OneDrive | http://t.cn/RDInqjZ | 无     |
+{% btn large::OneDrive::http://t.cn/RDInqjZ::fas fa-download %}
 
 ##### 二(中度精简版)
 
@@ -127,9 +126,8 @@ lopatkin俄大神精简中文系统 Windows 8.1 Pro 19599 x86-x64 ZH-CN SM
 | CRC32  | 4487AC42                                 | B74AF6CD                                 |
 | SHA-1  | B80AC842F6F3A730953C4F27D6D1BD0C7A0C331F | 03F9F3555F19E49BD90C3D67E9F84455094E60E2 |
 
-| 下载     | 链接                                                      | 提取码 |
-| -------- | --------------------------------------------------------- | ------ |
-| 种子文件 | https://url07.ctfile.com/f/349707-612742774-c22165?p=5036 | 5036   |
+{% btn large::种子文件::https://url07.ctfile.com/f/349707-612742774-c22165?p=5036::fas fa-download %}
+{% note paperclip blue::提取码：5036 %}
 
 ##### 二(深度精简版)
 
@@ -155,10 +153,8 @@ lopatkin俄大神精简中文系统 Windows 8.1 Pro 19599 x86-x64 ZH-CN SM
 
 ![Windows 8.1 精简版](https://www.lovepcos.xyz/usr/uploads/2022/02/1926265540.jpg)
 
-| 下载  | 链接                                | 提取码 |
-| ----- | ----------------------------------- | ------ |
-| 123盘 | https://www.123pan.com/s/mLLA-UaqtH | WtOl   |
-| 备份  | https://pan.huang1111.cn/s/yA5js6   | WtOl   |
+{% btn large::123网盘::https://www.123pan.com/s/mLLA-UaqtH::fas fa-download %}
+{% note paperclip blue::提取码：WtOl %}
 
 ## Windows 10 精简版
 
@@ -179,9 +175,8 @@ lopatkin俄大神精简中文系统 Windows 8.1 Pro 19599 x86-x64 ZH-CN SM
     </iframe>
 </div>
 
-| 下载  | 链接                                | 提取码 |
-| ----- | ----------------------------------- | ------ |
-| 123盘 | https://www.123pan.com/s/mLLA-0pqtH | LTSB   |
+{% btn large::123网盘::https://www.123pan.com/s/mLLA-0pqtH::fas fa-download %}
+{% note paperclip blue::提取码：LTSB %}
 
 ##### 二(LTSB 适度精简版 X64)
 
@@ -201,9 +196,7 @@ lopatkin俄大神精简中文系统 Windows 8.1 Pro 19599 x86-x64 ZH-CN SM
 </div>
 
 
-| 下载 | 链接                              | 提取码  |
-| ---- | --------------------------------- | ------- |
-| 备份 | https://pan.huang1111.cn/s/alyPFG | jerrynb |
+文件已经丢失
 
 ##### 三(LTSC DAILY日常使用版 X64)
 
@@ -241,10 +234,9 @@ lopatkin俄大神精简中文系统 Windows 8.1 Pro 19599 x86-x64 ZH-CN SM
     </iframe>
 </div>
 
-| 下载     | 链接                                      | 提取码 |
-| -------- | ----------------------------------------- | ------ |
-| 123网盘  | https://www.123pan.com/s/mLLA-dfqtH       | 2021   |
-| 阿里云盘 | https://www.aliyundrive.com/s/DDt3hi1Q3yU | 无     |
+{% btn large::123网盘::https://www.123pan.com/s/mLLA-dfqtH::fas fa-download %}
+{% note paperclip blue::提取码：2021 %}
+{% btn large::阿里云盘::https://www.aliyundrive.com/s/DDt3hi1Q3yU::fas fa-download %}
 
 ##### 五(21H2 DAILY日常使用版 X64)
 
