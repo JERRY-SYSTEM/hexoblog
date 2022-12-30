@@ -27,7 +27,7 @@ tags:
 
 ## 精简内容
 
-{% folding blue::查看精简内容 %}
+{% folding reg::查看精简内容 %}
 {% checkbox times red checked::Unified Telemetry Client (Asimov)(遥测) %}
 {% checkbox times red checked::Windows 生物识别服务 %}
 {% checkbox times red checked::Windows客户体验改善计划 CEIP (SQM) %}
@@ -117,7 +117,7 @@ tags:
 
 ## 文件校验
 
-{% folding cyan open::查看文件校验 %}
+{% folding yellow open::查看文件校验 %}
 {% radio yellow checked::文件名：[JERRY-SYSTEM]Server2019_DC_X64_DAILY.iso %}
 {% radio yellow checked::文件大小：2.45 GB (2631041024 字节) %}
 {% radio yellow checked::MD5：2C411602723AA5EDDB977D4ABC1F30A3 %}
