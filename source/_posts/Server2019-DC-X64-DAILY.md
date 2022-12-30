@@ -28,69 +28,69 @@ tags:
 ## 精简内容
 
 {% folding blue::查看精简内容 %}
-{% checkbox blue checked::Unified Telemetry Client (Asimov)(遥测) %}
-{% checkbox blue checked::Windows 生物识别服务 %}
-{% checkbox blue checked::Windows客户体验改善计划 CEIP (SQM) %}
-{% checkbox blue checked::Windows 错误报告 %}
-{% checkbox blue checked::问题报告与解决方案控制面板支持 %}
-{% checkbox blue checked::面部识别 %}
-{% checkbox blue checked::首次登录动画 %}
-{% checkbox blue checked::Font 缓存服务 %}
-{% checkbox blue checked::Telephony(电话) %}
-{% checkbox blue checked::地图控制 %}
-{% checkbox blue checked::BioEnrollment %}
-{% checkbox blue checked::SmartScreen %}
-{% checkbox blue checked::Cortana %}
-{% checkbox blue checked::轻松传送 %}
-{% checkbox blue checked::Windows Reader (PDF) %}
-{% checkbox blue checked::Phone Service(电话服务) %}
-{% checkbox blue checked::远程访问自动拨号管理器(RasAuto服务) %}
-{% checkbox blue checked::屏保 %}
-{% checkbox blue checked::语音识别 %}
-{% checkbox blue checked::语音 TTS %}
-{% checkbox blue checked::Superfetch(超级预读取) %}
-{% checkbox blue checked::缓存与临时文件 %}
-{% checkbox blue checked::内核调试 %}
-{% checkbox blue checked::阿拉伯语 %}
-{% checkbox blue checked::保加利亚语 %}
-{% checkbox blue checked::繁体中文 %}
-{% checkbox blue checked::克罗地亚语 %}
-{% checkbox blue checked::捷克语 %}
-{% checkbox blue checked::丹麦语 %}
-{% checkbox blue checked::荷兰语 %}
-{% checkbox blue checked::英语 (GB) %}
-{% checkbox blue checked::英语 (US) %}
-{% checkbox blue checked::爱沙尼亚语 %}
-{% checkbox blue checked::芬兰语 %}
-{% checkbox blue checked::法语 %}
-{% checkbox blue checked::法语(加拿大) %}
-{% checkbox blue checked::德语 %}
-{% checkbox blue checked::希腊语 %}
-{% checkbox blue checked::希伯来语 %}
-{% checkbox blue checked::匈牙利语 %}
-{% checkbox blue checked::输入法编辑器 (IME) %}
-{% checkbox blue checked::日语 (IME) %}
-{% checkbox blue checked::韩语 (IME) %}
-{% checkbox blue checked::繁体中文 (IME) %}
-{% checkbox blue checked::意大利语 %}
-{% checkbox blue checked::日语 %}
-{% checkbox blue checked::韩语 %}
-{% checkbox blue checked::拉脱维亚语 %}
-{% checkbox blue checked::立陶宛语 %}
-{% checkbox blue checked::挪威语 %}
-{% checkbox blue checked::波兰语 %}
-{% checkbox blue checked::葡萄牙语(巴西) %}
-{% checkbox blue checked::葡萄牙语 %}
-{% checkbox blue checked::罗马尼亚语 %}
-{% checkbox blue checked::俄语 %}
-{% checkbox blue checked::塞尔维亚语 %}
-{% checkbox blue checked::斯洛伐克语 %}
-{% checkbox blue checked::斯洛文尼亚语 %}
-{% checkbox blue checked::西班牙语 %}
-{% checkbox blue checked::瑞典语 %}
-{% checkbox blue checked::泰语 %}
-{% checkbox blue checked::土耳其语 %}
-{% checkbox blue checked::乌克兰语 %}
+{% checkbox times red checked::Unified Telemetry Client (Asimov)(遥测) %}
+{% checkbox times red checked::Windows 生物识别服务 %}
+{% checkbox times red checked::Windows客户体验改善计划 CEIP (SQM) %}
+{% checkbox times red checked::Windows 错误报告 %}
+{% checkbox times red checked::问题报告与解决方案控制面板支持 %}
+{% checkbox times red checked::面部识别 %}
+{% checkbox times red checked::首次登录动画 %}
+{% checkbox times red checked::Font 缓存服务 %}
+{% checkbox times red checked::Telephony(电话) %}
+{% checkbox times red checked::地图控制 %}
+{% checkbox times red checked::BioEnrollment %}
+{% checkbox times red checked::SmartScreen %}
+{% checkbox times red checked::Cortana %}
+{% checkbox times red checked::轻松传送 %}
+{% checkbox times red checked::Windows Reader (PDF) %}
+{% checkbox times red checked::Phone Service(电话服务) %}
+{% checkbox times red checked::远程访问自动拨号管理器(RasAuto服务) %}
+{% checkbox times red checked::屏保 %}
+{% checkbox times red checked::语音识别 %}
+{% checkbox times red checked::语音 TTS %}
+{% checkbox times red checked::Superfetch(超级预读取) %}
+{% checkbox times red checked::缓存与临时文件 %}
+{% checkbox times red checked::内核调试 %}
+{% checkbox times red checked::阿拉伯语 %}
+{% checkbox times red checked::保加利亚语 %}
+{% checkbox times red checked::繁体中文 %}
+{% checkbox times red checked::克罗地亚语 %}
+{% checkbox times red checked::捷克语 %}
+{% checkbox times red checked::丹麦语 %}
+{% checkbox times red checked::荷兰语 %}
+{% checkbox times red checked::英语 (GB) %}
+{% checkbox times red checked::英语 (US) %}
+{% checkbox times red checked::爱沙尼亚语 %}
+{% checkbox times red checked::芬兰语 %}
+{% checkbox times red checked::法语 %}
+{% checkbox times red checked::法语(加拿大) %}
+{% checkbox times red checked::德语 %}
+{% checkbox times red checked::希腊语 %}
+{% checkbox times red checked::希伯来语 %}
+{% checkbox times red checked::匈牙利语 %}
+{% checkbox times red checked::输入法编辑器 (IME) %}
+{% checkbox times red checked::日语 (IME) %}
+{% checkbox times red checked::韩语 (IME) %}
+{% checkbox times red checked::繁体中文 (IME) %}
+{% checkbox times red checked::意大利语 %}
+{% checkbox times red checked::日语 %}
+{% checkbox times red checked::韩语 %}
+{% checkbox times red checked::拉脱维亚语 %}
+{% checkbox times red checked::立陶宛语 %}
+{% checkbox times red checked::挪威语 %}
+{% checkbox times red checked::波兰语 %}
+{% checkbox times red checked::葡萄牙语(巴西) %}
+{% checkbox times red checked::葡萄牙语 %}
+{% checkbox times red checked::罗马尼亚语 %}
+{% checkbox times red checked::俄语 %}
+{% checkbox times red checked::塞尔维亚语 %}
+{% checkbox times red checked::斯洛伐克语 %}
+{% checkbox times red checked::斯洛文尼亚语 %}
+{% checkbox times red checked::西班牙语 %}
+{% checkbox times red checked::瑞典语 %}
+{% checkbox times red checked::泰语 %}
+{% checkbox times red checked::土耳其语 %}
+{% checkbox times red checked::乌克兰语 %}
 {% endfolding %}
 
 ## 视频介绍
