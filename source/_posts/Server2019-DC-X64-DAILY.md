@@ -118,10 +118,10 @@ tags:
 ## 文件校验
 
 {% folding cyan open::查看文件校验 %}
-{% radio red checked::文件名：[JERRY-SYSTEM]Server2019_DC_X64_DAILY.iso %}
-{% radio red checked::文件大小：2.45 GB (2631041024 字节) %}
-{% radio red checked::MD5：2C411602723AA5EDDB977D4ABC1F30A3 %}
-{% radio red checked::SHA1：5F3D3390FD91B7520B69F434DDB997A55EFAF626 %}
-{% radio red checked::CRC32：B156D676 %}
+{% radio yellow checked::文件名：[JERRY-SYSTEM]Server2019_DC_X64_DAILY.iso %}
+{% radio yellow checked::文件大小：2.45 GB (2631041024 字节) %}
+{% radio yellow checked::MD5：2C411602723AA5EDDB977D4ABC1F30A3 %}
+{% radio yellow checked::SHA1：5F3D3390FD91B7520B69F434DDB997A55EFAF626 %}
+{% radio yellow checked::CRC32：B156D676 %}
 {% endfolding %}
 
