@@ -27,7 +27,7 @@ tags:
 
 ## 精简内容
 
-{% folding cyan open::查看文件校验 %}
+{% folding blue::查看文件校验 %}
 {% checkbox blue checked::Unified Telemetry Client (Asimov)(遥测) %}
 {% checkbox blue checked::Windows 生物识别服务 %}
 {% checkbox blue checked::Windows客户体验改善计划 CEIP (SQM) %}
