@@ -464,7 +464,7 @@ comments:
   waline:
     js: https://unpkg.com/@waline/client@v2/dist/waline.js
     css: https://unpkg.com/@waline/client@v2/dist/waline.css
-    path: window.location.pathname.replace(/\/$/,'') # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
+    path: #window.location.pathname.replace(/\/$/,'') # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     meta: ['nick', 'mail']
     #lang: zh-CN
     #emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.com/@waline/emojis@1.1.0/qq']
