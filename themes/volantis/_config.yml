@@ -318,7 +318,7 @@ article:
 ############################### Comments ############################### > start
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
-  subtitle:
+  subtitle: <i class="fa-solid fa-message-exclamation"></i> 提示：部分地区网络可能无法正常加载资源。
   service: waline
   # 可选评论系统 #
 
@@ -467,7 +467,7 @@ comments:
     path: #window.location.pathname.replace(/\/$/,'') # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     meta: ['nick', 'mail']
     #lang: zh-CN
-    emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.com/@waline/emojis@1.1.0/qq', '//unpkg.com/@waline/emojis@1.1.0/bmoji']
+    emoji: ['//unpkg.com/@waline/emojis@1.1.0/bmoji', '//unpkg.com/@waline/emojis@1.1.0/qq', '//unpkg.com/@waline/emojis@1.1.0/bilibili']
     #dark: auto
     #requiredMeta: ['nick', 'mail']
     login: enable
