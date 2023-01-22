@@ -462,11 +462,11 @@ comments:
   # Waline
   # https://waline.js.org/
   waline:
-    js: https://unpkg.zhimg.com/@waline/client@v2/dist/waline.js
-    css: https://unpkg.zhimg.com/@waline/client@v2/dist/waline.css
+    js: https://unpkg.com/@waline/client@v2/dist/waline.js
+    css: https://unpkg.com/@waline/client@v2/dist/waline.css
     path: window.location.pathname.replace(/\/$/,'') # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     lang: zh-CN
-    emoji: ['//unpkg.zhimg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.zhimg.com/@waline/emojis@1.1.0/qq']
+    emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.com/@waline/emojis@1.1.0/qq']
     dark: auto
     requiredMeta: ['nick', 'mail']
     meta: ['nick', 'mail']
