@@ -467,12 +467,12 @@ comments:
     path: #window.location.pathname.replace(/\/$/,'') # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     meta: ['nick', 'mail']
     #lang: zh-CN
-    #emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.com/@waline/emojis@1.1.0/qq']
+    emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili', '//unpkg.com/@waline/emojis@1.1.0/qq']
     #dark: auto
     #requiredMeta: ['nick', 'mail']
-    #login: enable
-    #wordLimit: 100
-    #pageSize: 10
+    login: enable
+    wordLimit: 100
+    pageSize: 10
     placeholder: 快快留下你的观点吧...... # 评论占位提示
     serverURL: https://hexo-waline.jerry-system.ml # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader: false
