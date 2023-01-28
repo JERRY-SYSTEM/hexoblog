@@ -15,4 +15,5 @@ author: JERRY
 {% cell CowPE::http://cowpe.myzwq.cn::https://saas.bk-cdn.com/t/d6a84efe-044e-4953-a915-15d92f14f01d/u/2659f827-510f-4ac8-a390-a5b951504964/1662299052490/IMG_20220904_165615.png %}
 {% cell SYL科技工作室::https://sylgroup.ml::https://pan.sylgroup.ml/d/photo/logo/me.jpg?sign=53gUHyRoMzLxpK7ZanCNbWdunNE-0Ja6lFS8K1rjacA=:0 %}
 {% cell VirtualHotBarの博客::https://www.loser.plus::https://www.loser.plus/img/logo.png %}
+{% cell 小俞的博客::http://yuchenzhiyi.freeee.ml::http://yuchenzhiyi.freeee.ml/wp-content/uploads/2023/01/cropped-99b7705e299aacb316977ae95f4e0ba9-192x192.jpg %}
 {% endbtns %}
